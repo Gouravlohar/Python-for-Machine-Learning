@@ -1,4 +1,4 @@
-Pattern Questions
+Pattern Questions python 
 
 Print these patterns using loops:
 

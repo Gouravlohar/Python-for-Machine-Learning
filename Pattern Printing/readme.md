@@ -1,5 +1,5 @@
 Pattern Questions python 
-
+ 
 Print these patterns using loops:
 
 ```text
